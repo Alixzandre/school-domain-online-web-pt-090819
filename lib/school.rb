@@ -5,4 +5,6 @@ class School
     @school = school
   end
   
+  def 
+  
 end
