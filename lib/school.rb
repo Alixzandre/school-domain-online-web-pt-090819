@@ -3,7 +3,7 @@ class School
   
   ROSTER = {}
   
-  def roster(roster)
+  def initianlize(roster)
     @roster =roster
     ROSTER << roster
   end
