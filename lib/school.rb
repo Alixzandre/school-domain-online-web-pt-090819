@@ -5,7 +5,7 @@ class School
   
   def initianlize(roster)
     @roster =roster
-    ROSTER << roster
+    puts ROSTER
   end
   
 end
